@@ -11,7 +11,6 @@ git config --global user.email someemail@somedomain
 задаёт имя и email пользователя, который будет указываться при внесении изменений в репозиторий GIT.
 
 
-Команда
 ```
 git config --global code.editor "путь_до-текстового_редактора"
 ```
