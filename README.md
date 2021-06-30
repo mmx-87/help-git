@@ -13,3 +13,4 @@ LICENSE: [MIT](./license.md)
 
 1. [Конфигурирование GIT](./config.md)
 2. [Основы GIT. Основные команды](./basics.md)
+3. [Ветки (в разработке)](./branches.md)
